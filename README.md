@@ -22,7 +22,7 @@
 
 ### 1. Clone the repository (or generate a serverless project)
 ```sh
-sls create --name auth-service --template-url https://github.com/codingly-io/serverless-auth0-authorizer
+sls create --name auth-service --template-url https://github.com/mdorante/serverless-auth0-authorizer
 cd auth-service
 ```
 
